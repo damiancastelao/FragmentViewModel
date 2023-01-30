@@ -13,3 +13,6 @@ A tener en cuenta:
 - En este ejemplo el frameLayout acupa toda la Activity
 - La Activity principal tiene un layout diferente si ponemos el dispositivo apaisado. En este layout, el FrameLayou comparte layout con un textView
 
+---
+
+Guía completa de Fragments [aquí](https://developer.android.com/guide/fragments?hl=es-419)
