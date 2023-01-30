@@ -12,7 +12,7 @@ A tener en cuenta:
 - El FrameLayout es un elemento que me permite contener otras Views también, aqui solo se utiliza para contener al fragmnet
 - En este ejemplo el frameLayout acupa toda la Activity
 - La Activity principal tiene un layout diferente si ponemos el dispositivo apaisado. En este layout, el FrameLayou comparte layout con un textView
-- Para intercambiar datos entre la Activity y el Fragment utilizamos el ViewModel (ver esta (guía)[https://developer.android.com/guide/fragments/communicate?hl=es-419])
+- Para intercambiar datos entre la Activity y el Fragment utilizamos el ViewModel (ver esta [guía](https://developer.android.com/guide/fragments/communicate?hl=es-419))
 
 ---
 
